@@ -7,7 +7,7 @@ _Project UAS Mata Kuliah Data Mining_
 Repository ini berisi implementasi model Machine Learning untuk melakukan **prediksi penyakit jantung (Heart Disease Prediction)** menggunakan **algoritma Naive Bayes**.  
 Proyek ini merupakan bagian dari **Tugas Ujian Akhir Semester (UAS)** pada mata kuliah **Data Mining** Program Studi Teknologi Informasi.
 
-Dataset yang digunakan adalah **Heart Disease UCI Dataset** dari Kaggle(https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data), yang terdiri dari 14 atribut klinis seperti usia, tekanan darah, kolesterol, detak jantung maksimum, dan lain-lain. Tujuan dari proyek ini adalah membuat model klasifikasi yang dapat memprediksi apakah seorang pasien berpotensi mengalami penyakit jantung berdasarkan fitur-fitur tersebut.
+Dataset yang digunakan adalah **Heart Disease UCI Dataset** dari Kaggle, yang terdiri dari 14 atribut klinis seperti usia, tekanan darah, kolesterol, detak jantung maksimum, dan lain-lain. Tujuan dari proyek ini adalah membuat model klasifikasi yang dapat memprediksi apakah seorang pasien berpotensi mengalami penyakit jantung berdasarkan fitur-fitur tersebut.
 
 ## Tujuan Proyek
 - Melakukan eksplorasi dan pembersihan data.
@@ -41,7 +41,6 @@ Beberapa hasil model:
 - **Precision:** 0.91  
 - **Recall:** 0.75  
 - **F1-Score:** 0.82  
-- Confusion Matrix dan visualisasi lainnya tersedia di folder `/images`.
 
 ## Anggota Kelompok
 1. **[Muhammad Rifal – 2205903040109]**

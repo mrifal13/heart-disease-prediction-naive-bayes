@@ -45,6 +45,8 @@ Beberapa hasil model:
 ## Anggota Kelompok
 1. **[Muhammad Rifal – 2205903040109]**
 2. **[Hendra farizal – 2205903040116]**
+3. **[Rosmiati – 2205903040089]**
+4. **[Julia Kana – 2205903040105]**
 
 ## Catatan
 Proyek ini dibuat sebagai bagian dari **Ujian Akhir Semester (UAS)** mata kuliah **Data Mining**, Program Studi Teknologi Informasi.
